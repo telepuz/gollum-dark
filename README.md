@@ -2,11 +2,10 @@
 
 ## Screenshots
 
-|                          |                         |
-| ------------------------ | ----------------------- |
-| ![lists](img/lists.png)  | ![code](img/code.png)   |
-| ![lists](img/tables.png) | ![other](img/other.png) |
-|                          |
+![lists](img/lists.png)
+![code](img/code.png)
+![lists](img/tables.png)
+![other](img/other.png)
 
 ## Usage
 
