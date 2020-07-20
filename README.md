@@ -1,5 +1,13 @@
 # Gollum dark theme
 
+## Screenshots
+
+|                          |                         |
+| ------------------------ | ----------------------- |
+| ![lists](img/lists.png)  | ![code](img/code.png)   |
+| ![lists](img/tables.png) | ![other](img/other.png) |
+|                          |
+
 ## Usage
 
 ### Gollum
@@ -18,7 +26,7 @@ server {
     location / {
         ...
         '</head>'
-        '<link rel="stylesheet" type="text/css" href="http://127.0.0.1:8081/custom.css">
+        '<link rel="stylesheet" type="text/css" href="https://telepuz.github.io/gollum-dark/custom.css" media="all">
         </head>';
         sub_filter_once on;
         ...
