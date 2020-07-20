@@ -12,7 +12,11 @@
 
 ### Gollum
 
-Create file `custom.css` in wiki root and start gollum with option `-css`
+1. Download `custom.css`
+   ```sh
+   curl -sSL https://raw.githubusercontent.com/Telepuz/gollum-dark/master/custom.css > custom.css
+   ```
+1. Copy file `custom.css` in wiki root and start gollum with option `-css`
 
 ### Nginx
 
